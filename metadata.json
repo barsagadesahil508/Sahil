@@ -1,0 +1,8 @@
+{
+  "name": "LensMaster AI - Ultra Pro Studio",
+  "description": "Professional 3D Camera Rental Platform with integrated Gemini intelligence, 3D visualizations, and automated billing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
